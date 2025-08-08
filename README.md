@@ -1,1 +1,1 @@
-
+A web-based platform designed to manage and streamline online learning. This portal allows students to attend live classes, access recorded lectures, download study materials, and track their progress. Teachers can schedule sessions, upload resources, and monitor student performance. Built for educational institutions, coaching centers, and e-learning startups.
